@@ -2,7 +2,7 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import "./nav.css";
+import "./Nav.css";
 
 const Nav = () => (
   <nav className="nav">
